@@ -2,7 +2,7 @@
 
 This repository contains some of my Natural language processing projects, described below.
 
-Tweet sentiment recognition:
+## Tweet sentiment recognition:
 
 In this project, I use Tensorflow to develop an LSTM-based deep learning pipeline to detect tweet sentiment. I pre-process the tweet emotion dataset, train and evaluate my learning model on the tweet emotion dataset and then serve my model using Flask as a web app to detect sentiment of a user's tweet. Instructions to run the program are below:
 
