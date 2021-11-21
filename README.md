@@ -8,7 +8,7 @@ In this project, I use Tensorflow to develop an LSTM-based deep learning pipelin
 
 1. Open the Colab notebook link in the *Tweet_Emotion_recognition.ipynb* file to run the program in Google Colab.
 2. Upload the *templates.zip* and *static.zip* folders given in this repository to the home directory of the Colab notebook opened. The *templates.zip* and *static.zip* folders contain the html and css files used to format and create the Flask web API 
-3. Run the cells in the Colab notebook opened.
+3. Run the Colab notebook opened.
 
 ## Finetuned BERT for text classification:
 
@@ -19,4 +19,4 @@ In this project, I do the following:
 
 Instructions to run the program are below:
 1. Open the Colab notebook link in the *Fine_Tune_BERT_for_Text_Classification_with_TensorFlow.ipynb* file to run the program in Google Colab.
-2. Run the cells in the Colab notebook opened.
+2. Run the Colab notebook opened.
